@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/weather-forecast-hub-164373-164382/weather_frontend"
+}
